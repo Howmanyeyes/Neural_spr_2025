@@ -1,0 +1,13 @@
+1) 
+2) пассажиры, сам реализовываешь https://www.kaggle.com/competitions/passenger-satisfaction-2024/overview
+3) бабочки, просто решить https://www.kaggle.com/competitions/butterflies-classification/overview 
+4) видосы, просто решить, 0.95 или лучше https://www.kaggle.com/competitions/what-on-the-video
+5) видосы, просто решить https://www.kaggle.com/competitions/automated-video-captioning
+6) Набрать не менее 92% в задаче. Балл за сдачу пропорционален тому, на сколько больше набрано https://www.kaggle.com/c/platesv2
+7) Сделать GAN, который делает функцию
+8) Сделать GAN, который делает фото человека
+9) Генерация кружков на изображениях, создание нейронки которая "ищет" кружки и создает маску с кружком
+10) Сделать нейронку которая будет сегментировать животных
+11) Создать датасет вида: текст - шифрованный цезераем с шагом из таблицы текст. Научить RNN расшфровывать текст.
+12) ???
+13) ???
