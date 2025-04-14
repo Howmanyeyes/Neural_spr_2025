@@ -1,7 +1,7 @@
-1) 
-2) пассажиры, сам реализовываешь https://www.kaggle.com/competitions/passenger-satisfaction-2024/overview
-3) бабочки, просто решить https://www.kaggle.com/competitions/butterflies-classification/overview 
-4) видосы, просто решить, 0.95 или лучше https://www.kaggle.com/competitions/what-on-the-video
+1) 1.ipynb
+2) пассажиры, сам реализовываешь https://www.kaggle.com/competitions/passenger-satisfaction-2024/overview 2.ipynb
+3) бабочки, просто решить https://www.kaggle.com/competitions/butterflies-classification/overview 3.ipynb
+4) видосы, просто решить, 0.95 или лучше https://www.kaggle.com/competitions/what-on-the-video 4.ipynb
 5) видосы, просто решить https://www.kaggle.com/competitions/automated-video-captioning
 6) Набрать не менее 92% в задаче. Балл за сдачу пропорционален тому, на сколько больше набрано https://www.kaggle.com/c/platesv2
 7) Сделать GAN, который делает функцию
