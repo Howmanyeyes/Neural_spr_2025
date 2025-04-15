@@ -1,2 +1,7 @@
 .neural_spr_2025_venv
 __pycache__
+/dz_eg/data
+dz_eg/model_resnext101_64x4d.pt
+dz_eg/sample_model.pt
+dz_eg/sample_model.pt
+dz_eg/sample_model.pt
